@@ -8,3 +8,5 @@ git commit -m
 git remote origin master https://github.com/meti0079/learngit4.git
 <br>
 git push origin master
+<br>
+git clone
